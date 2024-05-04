@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on GenAI Projects<br>🤝 I’m looking for help with Tech Basics<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Tech Stuff(you'll tell me the answer also)<br>😄 Pronouns: He/Him <br>🪪 You can reach me at elhaan.daud786@gmail.com <br>
+🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on GenAI Projects<br>🤝 I’m looking for help with Tech Basics<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Tech Stuff(You'll tell me the answer, too.)<br>😄 Pronouns: He/Him <br>🪪 You can reach me at elhaan.daud786@gmail.com <br>
 
 
 ## 🌐 Socials:
