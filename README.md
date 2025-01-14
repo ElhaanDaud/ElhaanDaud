@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Elhaan Daud</h1>
 <h5 align="center">
-A 2nd-year student pursuing Bachelors in Computer Science, from Jamia Hamdard University. I am an AI/ML enthusiast and a footballer ⚽. 
+A 3rd-year student pursuing Bachelors in Computer Science, from Jamia Hamdard University. I am an AI/ML enthusiast and a footballer ⚽. 
 </h5>
 
 🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on GenAI Projects<br>🤝 I’m looking for help with Tech Basics<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Tech Stuff(You'll tell me the answer too.)<br>😄 Pronouns: He/Him <br>🪪 You can reach me at elhaan.daud786@gmail.com <br>
